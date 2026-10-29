@@ -27,4 +27,23 @@ Customer Churn Prediction is a data analytics and machine learning project desig
 - **Develop Interactive Dashboards:** Create Power BI and Streamlit dashboards for effective churn analysis and visualization.
 - **Support Customer Retention:** Provide actionable insights to improve customer satisfaction and reduce churn.
 
+# 🚀 Project Resources
+
+## 📊 Dashboards
+
+- 🔗 [Power BI Dashboard](https://drive.google.com/file/d/1H6FNgb7bM_xFn-NQGNp_OY4qTnIEZJ0R/view?usp=sharing)
+- 🌐 [Streamlit Dashboard](https://drive.google.com/file/d/1gNa_dULWRLk7h_qztCFwIfUTGWd1i2_w/view?usp=sharing)
+
+## 📄 Project Documentation
+
+- 📑 [View Project Documentation PDF](https://drive.google.com/file/d/14LlVrCxaG92v1JsayPidClMwJTFIAm9L/view?usp=sharing)
+
+## 📁 Datasets
+
+- 📂 [Customer Churn Prediction Dataset](https://drive.google.com/file/d/1bWJFAhrBSruSJdWA_q1IjetP8B2mF-yP/view?usp=sharing)
+- 📂 [Customer Churn Analysis Dataset](https://drive.google.com/file/d/1_iq2aAr6E9gjzJ0AiZv54FZIadi7CwB2/view?usp=sharing)
+- 📂 [ML Model Performance Dataset](https://drive.google.com/file/d/1_iq2aAr6E9gjzJ0AiZv54FZIadi7CwB2/view?usp=sharing)
+- 📂 [Customer Retention Dataset](https://docs.google.com/spreadsheets/d/1XoUZ3waIQ82Gszhde1Dgwn3ckJE3_8sy/edit?usp=sharing&ouid=116913806936212812012&rtpof=true&sd=true)
+- 📂 [Customer Risk Analysis Dataset](https://docs.google.com/spreadsheets/d/18mN2rle0xNzaMMeFFh0BA7U-Z2MM29Yg/edit?usp=sharing&ouid=116913806936212812012&rtpof=true&sd=true)
+- 📂 [Customer Churn Summary Dataset](https://docs.google.com/spreadsheets/d/1p2SGgRr-oFCca7fs803VYkI2eFkzcvkq/edit?usp=sharing&ouid=116913806936212812012&rtpof=true&sd=true)
 
