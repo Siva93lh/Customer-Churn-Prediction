@@ -107,6 +107,63 @@ Customer Churn Prediction is a data analytics and machine learning project desig
 - Average Model F1-Score (%) = AVERAGE('ML Model Performance'[F1Score]) * 100
 - Best Model ROC-AUC (%) = MAX('ML Model Performance'[ROC_AUC]) * 100
 
+## 📁 Repository Structure
+
+```text
+Customer-Churn-Prediction/
+│
+├── 📂 Dataset/
+│   ├── Customer_Churn_Prediction_Dataset.xlsx
+│   ├── Customer_Churn_Analysis_Dataset.xlsx
+│   ├── ML_Model_Performance_Dataset.xlsx
+│   ├── Customer_Retention_Dataset.xlsx
+│   ├── Customer_Risk_Analysis_Dataset.xlsx
+│   └── Customer_Churn_Summary_Dataset.xlsx
+│
+├── 📂 Machine_Learning/
+│   └── Customer_Churn_Prediction_Model.ipynb
+│
+├── 📂 PowerBI/
+│   └── Customer_Churn_Dashboard.pbix
+│
+├── 📂 Streamlit/
+│   └── app.py
+│
+├── 📂 Documentation/
+│   └── Customer_Churn_Project_Documentation.pdf
+│
+├── 📂 Screenshots/
+│   ├── Customer_Churn_Dashboard.png
+│   ├── Customer_Risk_Dashboard.png
+│   └── ML_Model_Performance.png
+│
+├── requirements.txt
+└── README.md
+```
+
+## 📌 Conclusion
+
+- The Customer Churn Prediction project integrates Data Analytics, Machine Learning, Power BI, DAX, and Streamlit to support customer churn identification and retention analysis.
+- The project transforms raw customer data into meaningful business insights through data preprocessing, exploratory data analysis (EDA), and churn pattern analysis.
+- The machine learning component helps identify customers who are likely to leave and evaluate churn prediction performance.
+- Customer contract, tenure, payment method, and service analysis help identify churn patterns across different customer segments.
+- Feature importance analysis highlights the factors that contribute to customer churn predictions.
+- Power BI provides interactive dashboards with KPIs, churn trends, customer distribution, and risk indicators.
+- Streamlit provides a user-friendly interface for exploring churn insights, customer risk, and analytical results.
+- The project demonstrates how data analytics and machine learning can support customer retention, risk assessment, and informed business decision-making.
+
+## 🎯 Key Learnings
+
+- **Data Preprocessing:** Learned to clean, transform, and prepare customer datasets for analysis.
+- **Exploratory Data Analysis:** Gained insights into customer churn patterns, customer behavior, and risk indicators.
+- **Machine Learning:** Understood how classification models can be used to predict potential customer churn.
+- **Feature Importance:** Learned to identify important variables influencing customer churn predictions.
+- **Model Evaluation:** Gained experience evaluating model performance using accuracy, precision, recall, F1-score, and ROC-AUC.
+- **DAX Measures:** Developed measures to calculate churn rates, customer counts, revenue, and customer risk KPIs.
+- **Power BI Visualization:** Learned to build interactive dashboards for monitoring churn trends and customer segments.
+- **Streamlit Development:** Gained experience presenting churn predictions and analytical results through an interactive web application.
+- **Business Intelligence:** Improved the ability to translate analytical findings into actionable customer retention strategies.
+- **End-to-End Project Development:** Gained practical experience combining data analytics, machine learning, visualization, and reporting in one project.
 
 
 
