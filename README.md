@@ -86,4 +86,27 @@ Customer Churn Prediction is a data analytics and machine learning project desig
 - F1-Score
 - ROC-AUC Score
 
+### 📊 **DAX Measures Used:**
+
+- Total Customers = DISTINCTCOUNT('Customer Churn'[CustomerID])
+- Churned Customers = CALCULATE(DISTINCTCOUNT('Customer Churn'[CustomerID]), 'Customer Churn'[Churn] = "Yes")
+- Retained Customers = CALCULATE(DISTINCTCOUNT('Customer Churn'[CustomerID]), 'Customer Churn'[Churn] = "No")
+- Total Churn Rate (%) = DIVIDE([Churned Customers], [Total Customers], 0) * 100
+- Customer Retention Rate (%) = DIVIDE([Retained Customers], [Total Customers], 0) * 100
+- Average Monthly Charges = AVERAGE('Customer Churn'[MonthlyCharges])
+- Total Monthly Revenue = SUM('Customer Churn'[MonthlyCharges])
+- Average Customer Tenure = AVERAGE('Customer Churn'[TenureMonths])
+- Average Total Charges = AVERAGE('Customer Churn'[TotalCharges])
+- High-Risk Customers = CALCULATE(DISTINCTCOUNT('Customer Risk Analysis'[CustomerID]), 'Customer Risk Analysis'[RiskCategory] = "High")
+- Medium-Risk Customers = CALCULATE(DISTINCTCOUNT('Customer Risk Analysis'[CustomerID]), 'Customer Risk Analysis'[RiskCategory] = "Medium")
+- Low-Risk Customers = CALCULATE(DISTINCTCOUNT('Customer Risk Analysis'[CustomerID]), 'Customer Risk Analysis'[RiskCategory] = "Low")
+- Average Churn Risk Score = AVERAGE('Customer Risk Analysis'[ChurnRiskScore])
+- Average Model Accuracy (%) = AVERAGE('ML Model Performance'[Accuracy]) * 100
+- Average Model Precision (%) = AVERAGE('ML Model Performance'[Precision]) * 100
+- Average Model Recall (%) = AVERAGE('ML Model Performance'[Recall]) * 100
+- Average Model F1-Score (%) = AVERAGE('ML Model Performance'[F1Score]) * 100
+- Best Model ROC-AUC (%) = MAX('ML Model Performance'[ROC_AUC]) * 100
+
+
+
 
