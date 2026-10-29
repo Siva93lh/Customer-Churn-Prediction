@@ -65,19 +65,24 @@ Customer Churn Prediction is a data analytics and machine learning project desig
 - Jupyter Notebook
 - GitHub
 
-🤖 Machine Learning Models Used in Customer Churn Prediction
-- Logistic Regression
-- Decision Tree Classifier
-- Random Forest Classifier
-- Gradient Boosting Classifier
-- Support Vector Machine (SVM)
-- K-Nearest Neighbors (KNN)
-- XGBoost Classifier
-- Naive Bayes Classifier
-Evaluation Metrics Used:
+### 🤖 **Machine Learning Models Used in Customer Churn Prediction**
+
+- 🔹 Logistic Regression
+- 🔹 Decision Tree Classifier
+- 🔹 Random Forest Classifier
+- 🔹 Gradient Boosting Classifier
+- 🔹 Support Vector Machine (SVM)
+- 🔹 K-Nearest Neighbors (KNN)
+- 🔹 XGBoost Classifier
+- 🔹 Naive Bayes Classifier
+
+### 📊 **Evaluation Metrics Used**
+
 - Accuracy
 - Precision
 - Recall
+- F1-Score
+- ROC-AUC Score
 - F1-Score
 - ROC-AUC Score
 
