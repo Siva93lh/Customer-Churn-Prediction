@@ -47,3 +47,38 @@ Customer Churn Prediction is a data analytics and machine learning project desig
 - 📂 [Customer Risk Analysis Dataset](https://docs.google.com/spreadsheets/d/18mN2rle0xNzaMMeFFh0BA7U-Z2MM29Yg/edit?usp=sharing&ouid=116913806936212812012&rtpof=true&sd=true)
 - 📂 [Customer Churn Summary Dataset](https://docs.google.com/spreadsheets/d/1p2SGgRr-oFCca7fs803VYkI2eFkzcvkq/edit?usp=sharing&ouid=116913806936212812012&rtpof=true&sd=true)
 
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Machine Learning
+- Microsoft Excel
+- Power BI
+- Power Query
+- DAX
+- Streamlit
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- GitHub
+
+🤖 Machine Learning Models Used in Customer Churn Prediction
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
+- Gradient Boosting Classifier
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
+- XGBoost Classifier
+- Naive Bayes Classifier
+Evaluation Metrics Used:
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- ROC-AUC Score
+
+
